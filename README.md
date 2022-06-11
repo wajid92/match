@@ -1,6 +1,17 @@
-# Getting Started with Create React App
+# Project Title
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Match Description App
+
+## Project Description
+
+This app takes input of match descriptions and show them in a table. Information which it takes as input are Match type, start date and time, end date and time, tournament name (if, match type is tournament), comment, location, team 1 name and team 2 name along with their ground location (home or away).
+
+Technologies used in this project are HTML, CSS, Javascript and Reactjs.
+
+While developing this app, I faced number of challenges.Some of which include, I had to change the styling of components using javascript on clicking a button. Making comment section scrollable was little tricky. Getting data in the table from input section was also a tough part.
+Beside these challenges, the best part while developing this app was that I learnt many new things related to form filling and tables.
+In the coming future, I will try to enhance this app by adding new features as well as enhancing the current features. Some features which is currently in my mind is adding a delete button to delete a row and adding a edit button to edit a row.
+This type of app can be used to add match details by people with profession related to match and show the table to the audience so that they can see.
 
 ## Available Scripts
 

@@ -36,3 +36,163 @@
     transform: rotate(360deg);
   }
 }
+
+
+.FirstStyle{
+  border:2px solid black;
+  padding:250px;
+  width:250px;
+  margin:auto;
+  margin-top:50px;
+}
+ .headerStyle{
+  padding:1px 150%;
+  background-color:red;
+  margin-top:-100%;
+  margin-left:-100%;
+}
+.headerWordStyle{
+  color:white;
+  padding:0px;
+  margin-left:-300px;
+  margin-top:-1px;
+  margin-bottom:5px;
+}
+.dropdownStyle{
+  padding:0px 20px;
+  top:18px;
+  left:-50px;
+  position:relative;
+  
+}
+.labelStyle{
+  position:relative;
+  top:50px;
+  left:-200px;
+  
+}
+.nextStyle{
+  position:relative;
+  left:250px;
+  top:340px;
+  padding:10px 20px;
+  background-color:red;
+  color:white;
+  font-size:1.2rem;
+  cursor:pointer;
+}
+.temp1Style, .div3{
+  display:none;
+}
+.StartDate{
+  position:relative;
+  top:27px;
+  left:-223px;
+}
+.StartDateBox{
+  padding:0px 20px;
+  top:30px;
+  left:-225px;
+  position:relative;
+  
+}
+.EndDate{
+  position:relative;
+  top:-16px;
+  left:170px;
+  white-space:nowrap;
+}
+.EndDateBox{
+  padding:0px 20px;
+  top:7px;
+  left:21px;
+  position:relative;
+}
+.TourName{
+  position:relative;
+  top:47px;
+  left:-223px;
+}
+.TourNameBox{
+  padding:0px 20px;
+  top:50px;
+  left:-225px;
+  position:relative;
+  
+}
+.commentBox{
+  width:200px;
+  height:10rem;
+  top:-31px;
+  left:76px;
+  position:relative;
+  resize:none;
+}
+.comment{
+  position:relative;
+  top:-209px;
+  left:170px;
+  white-space:nowrap;
+}
+.nextStyle2{
+  position:relative;
+  left:250px;
+  top:130px;
+  padding:10px 20px;
+  background-color:red;
+  color:white;
+  font-size:1.2rem;
+  cursor:pointer;
+  margin-right:1px;
+}
+
+.homeAway{
+  padding: 2px 20px;
+  position: relative;
+  top:8px;
+  left:3.4rem;
+}
+.vs{
+  position: relative;
+  top: 30px;
+  left:5rem;
+}
+
+table{
+  border-collapse: collapse;
+  width:100vw;
+  margin:auto;
+  margin-top: 100px;
+  margin-bottom: 200px;
+  table-layout: fixed;
+  display: none;
+}
+table th{
+  border:2px solid black;
+  background-color: red;
+  color:white;
+  font-size: 1.5vw;
+  
+}
+table td{
+  border: 2px solid black;
+  border-collapse: collapse;
+  font-size: 1.5vw;
+}
+.newdiv{
+  height: 40px;
+  overflow-y: scroll;
+}
+#add{
+  position: relative;
+  left:40vw;
+  top:-25vh;
+  font-size: 2vw;
+  display: none;
+}
+#show{
+  position: relative;
+  left:4vw;
+  font-size: 1.6vw;
+  top:20px;
+}
